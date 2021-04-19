@@ -1,5 +1,9 @@
 # qr
 
+![alt text](https://github.com/presleyduggan/qr/blob/master/readme_preview.png?raw=true)
+
+
+
 NEED TO INSTALL PIL
 
 pip install git+git://github.com/ojii/pymaging.git#egg=pymaging
