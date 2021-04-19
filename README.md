@@ -1,6 +1,6 @@
 # qr
 
-![alt text](https://github.com/presleyduggan/qr/readme_preview.png?raw=true)
+![alt text](https://github.com/presleyduggan/qr/master/readme_preview.PNG?raw=true)
 
 
 
